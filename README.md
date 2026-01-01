@@ -1,9 +1,8 @@
-# sudhakar-devops
-## 👋 Hi, I'm Sudhakar Peruri
+## 👋 Hi, I'm Sudhakar Rao P
 
 🎓 Computer Science Engineering Graduate  
-💼 Career Transitioning DevOps & Cloud Engineer  
-🌐 Based in India  
+💼 DevOps & Cloud Engineer (Career Transition Professional)  
+📍 India  
 
 ---
 
@@ -12,16 +11,16 @@
 - Git & GitHub
 - Docker & Docker Compose
 - CI/CD (Azure DevOps, GitHub Actions)
-- Azure Cloud (VM, Storage, VNet)
+- Jenkins
+- Azure Cloud (VM, VNet, NSG, Storage)
 - YAML & Shell Scripting (Basics)
-- Python (Basics)
 
 ---
 
 ### 🚀 Projects
-🔹 Dockerized Web Application  
-🔹 CI/CD Pipeline Automation  
-🔹 Azure Cloud Deployment  
+- Dockerized Flask Application
+- CI/CD Pipeline Automation
+- Azure Cloud Deployment
 
 ---
 
@@ -33,4 +32,4 @@
 ---
 
 ### 📫 Connect With Me
-- Email: sudhakar.p89@yahoo.com
+- GitHub: https://github.com/peruri-sudhakar
