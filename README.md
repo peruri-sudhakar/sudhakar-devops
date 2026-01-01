@@ -33,5 +33,4 @@
 ---
 
 ### 📫 Connect With Me
-- LinkedIn: https://linkedin.com/in/yourprofile
-- Email: yourmail@gmail.com
+- Email: sudhakar.p89@yahoo.com
